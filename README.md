@@ -26,7 +26,6 @@ pip (Python package installer)
 ### Clone the Repository:
 
 ```sh
-Copy code
 git clone https://github.com/RoaaM/EDA-project
 cd EDA-project
 ```
@@ -34,7 +33,6 @@ cd EDA-project
 ### Create and Activate a Virtual Environment (optional but recommended):
 
 ```sh
-Copy code
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
@@ -43,7 +41,6 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ### Install Dependencies:
 
 ```sh
-Copy code
 pip install -r requirements.txt
 ```
 
@@ -52,7 +49,6 @@ pip install -r requirements.txt
 ### To start the Streamlit application, run the following command:
 
 ```sh
-Copy code
 streamlit run eda_app.py
 ```
 
