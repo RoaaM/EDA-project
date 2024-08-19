@@ -20,7 +20,7 @@ joblib==1.1.0
 jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
 kiwisolver==1.4.5
-llvmlite==0.41.1  # Compatible with numba 0.58.1
+llvmlite==0.41.1
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.9.2
@@ -30,7 +30,7 @@ multimethod==1.12
 narwhals==1.4.2
 networkx==3.3
 numba==0.58.1
-numpy==1.26.4
+numpy==1.25.0
 packaging==24.1
 pandas==2.2.2
 patsy==0.5.6
@@ -51,7 +51,7 @@ referencing==0.35.1
 requests==2.32.3
 rich==13.7.1
 rpds-py==0.20.0
-scipy==1.9.3  
+scipy==1.9.3
 seaborn==0.13.2
 six==1.16.0
 smmap==5.0.1
