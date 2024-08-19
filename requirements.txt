@@ -3,3 +3,4 @@ pandas
 streamlit
 ydata-profiling
 streamlit-pandas-profiling
+numba==0.58.1
