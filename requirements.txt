@@ -66,6 +66,6 @@ typeguard
 typing_extensions
 tzdata
 urllib3
-visions
 wordcloud
-ydata-profiling
+ydata-profiling==4.1.0
+visions==0.7.5
